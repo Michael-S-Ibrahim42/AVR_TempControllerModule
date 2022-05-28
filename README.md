@@ -1,1 +1,1 @@
-This repository hold Temperature Controller Module project implementation files
+This repository holds Temperature Controller Module project implementation files.
